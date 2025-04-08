@@ -1,4 +1,4 @@
-### Jared
+### 🍄 Jared
 
 I'm a programmer based in Charlotte, NC. I enjoy systems programming, but most of my time is spent working with web and mobile development.
 
