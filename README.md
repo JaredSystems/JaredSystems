@@ -2,9 +2,6 @@
 
 I'm a programmer based in Charlotte, NC. I enjoy systems programming, but most of my time is spent working with web and mobile development.
 
-
-**Some projects I've been working on:**
-
 ### 🧪 Projects
 
 #### Full Stack Development
