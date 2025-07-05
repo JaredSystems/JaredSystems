@@ -1,6 +1,6 @@
 ### 🍄 Jared
 
-I'm a programmer based in Charlotte, NC. I enjoy systems programming, but most of my time is spent working with web and mobile development.
+I'm a programmer based in Miami, FL. I enjoy systems programming, but most of my time is spent working with web and mobile development.
 
 ### 🧪 Projects
 
