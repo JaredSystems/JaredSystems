@@ -8,7 +8,7 @@ I'm a programmer based in Miami, FL. I enjoy systems programming, but most of my
 
 * **[Marmot Systems](https://www.marmotsystems.com/)**: Direct Store Delivery (DSD) and accounting B2B solution for companies. Worked as a business partner at a dairy company, we relied on similar software, but it was bloated and expensive. So, I built my own solution.
 
-* **[Galaxity Learning](https://www.galaxitylearning.com/signin)**: Automated AI math tutoring app integrated into school LMS systems. While tutoring math to children during college, I wanted to create a gamified learning app for them that integrates with teacher tools like Schoology and Google Classroom. Currently 90% complete and on pause as i'm mostly working on Marmot Systems.
+* **[Galaxity Learning](https://www.galaxitylearning.com/signin)**: Automated AI math tutoring app integrated into school LMS systems. While tutoring math to children during college, I wanted to create a gamified learning app for them that integrates with teacher tools like Schoology and Google Classroom. 
 
 * **[FreeMind Recovery](https://github.com/CalculusCoder/FreeMind-Backend)**: A full stack web application dedicated to providing a comprehensive collection of anxiety recovery services, resources, and tools. Over 1,000 users. This was the first full-stack app I built to learn web development. 
 
