@@ -2,7 +2,7 @@
 
 I'm a programmer based in Miami, FL. I enjoy systems programming, but most of my time is spent working with web and mobile development.
 
-![Funny cat](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFieDB2dml0c3BkdDRib21sZ3l3ZHltemZkb3JvdGQ2NTZpZmduZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yPRo73ILrGjny/giphy.gif)
+<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/yPRo73ILrGjny" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/yPRo73ILrGjny">via GIPHY</a></p>
 
 ### 🧪 Projects
 
