@@ -2,6 +2,8 @@
 
 I'm a programmer based in Miami, FL. I enjoy systems programming, but most of my time is spent working with web and mobile development.
 
+![Monkey](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjFieDB2dml0c3BkdDRib21sZ3l3ZHltemZkb3JvdGQ2NTZpZmduZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yPRo73ILrGjny/giphy.gif)
+
 ### 🧪 Projects
 
 #### Full Stack Development
