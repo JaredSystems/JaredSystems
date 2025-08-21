@@ -2,7 +2,7 @@
 
 I'm a programmer based in Miami, FL. I enjoy systems programming, but most of my time is spent working with web and mobile development.
 
-![Funny cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+![Funny cat](https://tenor.com/view/monkey-computer-angry-pissed-typing-gif-19954912)
 
 ### 🧪 Projects
 
