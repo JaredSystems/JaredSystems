@@ -3,7 +3,7 @@
 I'm a programmer based in Miami, FL. I enjoy systems programming, but most of my time is spent working with web and mobile development.
 
 ![monkey](https://tenor.com/view/monkey-buisness-gif-26885105.gif)
-![monkey](https://tenor.com/view/monkey-buisness-gif-26885105.gif)
+![monkey](https://tenor.com/view/monkey-pissed-mad-angry-furious-gif-4720563.gif)
 
 
 
