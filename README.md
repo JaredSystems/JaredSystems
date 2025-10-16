@@ -3,7 +3,7 @@
 unfortunately, the fries are in the bag. 
 
 
-**works (ORDER BY DATE ASC):**
+**works (ordered by date asc):**
 
 * **[Marmot Systems](https://www.marmotsystems.com/)**: A Direct Store Delivery (DSD) and accounting B2B solution for companies. 
 
