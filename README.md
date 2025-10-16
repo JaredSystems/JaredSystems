@@ -7,11 +7,11 @@ unfortunately, the fries are in the bag.
 
 * **[Marmot Systems](https://www.marmotsystems.com/)**: A Direct Store Delivery (DSD) and accounting B2B solution for companies. 
 
-* **[Galaxity Learning](https://www.galaxitylearning.com/signin)**: An automated AI math tutoring app integrated into school LMS systems. 
+* **[Galaxity Learning](https://www.galaxitylearning.com/signin)**: An automated AI math tutoring app integrated into school LMS systems. (looking to open source)
 
 * **[Cryptography Library](https://github.com/CalculusCoder/c-cryptography-library)**: A cryptography library supporting 2 encryption ciphers and 1 key exchange algorithm (Diffie-Hellman). 
 
-* **[FreeMind Recovery](https://www.freemindrecovery.com/)**: A full stack web application dedicated to providing a comprehensive collection of anxiety recovery services, resources, and tools. Over 1,000 users. 
+* **[FreeMind Recovery](https://www.freemindrecovery.com/)**: A full stack web application dedicated to providing a comprehensive collection of anxiety recovery services, resources, and tools. Over 1,000 users. (looking to open source) 
 
 **what i enjoy using:**
 
