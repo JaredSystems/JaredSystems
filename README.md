@@ -13,7 +13,7 @@ unfortunately, the fries are in the bag.
 
 * **[FreeMind Recovery](https://www.freemindrecovery.com/)**: A full stack web application dedicated to providing a comprehensive collection of anxiety recovery services, resources, and tools. Over 1,000 users. (looking to open source) 
 
-**what i enjoy using:**
+**what i mostly use:**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/> 
 
