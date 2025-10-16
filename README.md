@@ -3,7 +3,7 @@
 unfortunately, the fries are in the bag. 
 
 
-**Some projects I've been working on:**
+**works:**
 
 * **[Marmot Systems](https://www.marmotsystems.com/)**: A Direct Store Delivery (DSD) and accounting B2B solution for companies. 
 
