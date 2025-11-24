@@ -1,7 +1,5 @@
 ### 🍄 Jared
 
-unfortunately, the fries are in the bag. 
-
 
 **works (ordered by date desc):**
 
